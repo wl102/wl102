@@ -3,5 +3,3 @@
 ### Hello, This is Lian.Wang!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=5dade2&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<p>I am a Backend Engineer working at sinovatio and create garbage somtime lol.</p>
